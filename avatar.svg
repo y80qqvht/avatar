@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="460">
+    <rect width="100%" height="100%" stroke="none" fill="#a55a4a" />
+    <ellipse cx="25%" cy="50%" rx="20%" ry="40%" stroke="none" fill="white" />
+    <ellipse cx="30%" cy="50%" rx="10%" ry="20%" stroke="none" fill="black" />
+    <ellipse cx="75%" cy="50%" rx="20%" ry="40%" stroke="none" fill="white" />
+    <ellipse cx="70%" cy="50%" rx="10%" ry="20%" stroke="none" fill="black" />
+</svg>
